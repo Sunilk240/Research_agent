@@ -530,15 +530,6 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
-
-- 📧 **Email**: support@researchagent.dev
-- 💬 **Discord**: [Join our community](https://discord.gg/researchagent)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/research-agent/issues)
-- 📖 **Docs**: [Full Documentation](https://docs.researchagent.dev)
-
----
-
 <div align="center">
 
 
