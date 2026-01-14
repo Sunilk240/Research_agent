@@ -544,7 +544,5 @@ SOFTWARE.
 
 *Research Agent - Where AI Meets Research ✨*
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/research-agent?style=social)](https://github.com/yourusername/research-agent)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/researchagent?style=social)](https://twitter.com/researchagent)
 
 </div>
